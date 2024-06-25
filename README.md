@@ -1,1 +1,1 @@
-# AI-Text-Summarizer-
+# AI-Text-Summarizer-App
